@@ -19,7 +19,7 @@ Além disso, a busca possui recomendações dinâmicas para ajudar o usuário co
 
 ## Exemplo da aplicação
 
-![Print da aplicação Streamlit](./data/Captura_de_tela_2025-07-22_110527.png)
+![Print da aplicação Streamlit](./data/Captura.png)
 
 ---
 
